@@ -5,6 +5,7 @@
 using namespace std;
 
 
+
 void GnomeSort::Sorting(int* Arrtpr, int ArrLenght, int &NumComparsions, int &NumSwaps, int &Time)
 {
 	Time = clock();

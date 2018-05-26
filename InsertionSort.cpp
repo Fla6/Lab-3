@@ -4,6 +4,7 @@
 #include <ctime>
 using namespace std;
 
+
 //swp = 6 comp = 12
 
 void InsertionSort::Sorting(int* Arrtpr, int ArrLenght, int &NumComparsions, int &NumSwaps, int &Time)
